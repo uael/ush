@@ -1,2 +1,2 @@
-# ush
+# ush [WIP]
 Micro shell
